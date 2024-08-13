@@ -1,6 +1,5 @@
 
-# Hello, I’m @Nazat-Clash 👋
-<img src="https://i.imgur.com/sgYAIWe.png" alt = "Profile Photo" width = "300"/>
+<img src="https://i.imgur.com/pHOHeCO.png" width = "550" height = "145" />
 
 ## 👀 About Me 
 I am deeply passionate about programming and software development 🚀. Currently, I am exploring new programming languages and delving into various frameworks and libraries. 📚
@@ -40,3 +39,6 @@ I work with the following technologies:
 
 ## 📫 Get in Touch
 For any enquiries or collaboration opportunities, please reach out to me via email at [nazat.clash@gmail.com](mailto:nazat.clash@gmail.com)
+
+<img src="https://github.com/Nazat-Clash/Code/blob/870ef45a2c06d3983b126388f3d0e15b9fa686ba/desk2.jpeg" width = "800"/>
+
