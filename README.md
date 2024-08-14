@@ -41,4 +41,3 @@ I work with the following technologies:
 For any enquiries or collaboration opportunities, please reach out to me via email at [nazat.clash@gmail.com](mailto:nazat.clash@gmail.com)
 
 <img src="https://github.com/Nazat-Clash/Code/blob/870ef45a2c06d3983b126388f3d0e15b9fa686ba/desk2.jpeg" width = "800"/>
-
