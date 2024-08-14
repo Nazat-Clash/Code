@@ -1,8 +1,8 @@
 var pics = [
-    "Images/cat_1.jpg",
-    "Images/cat_2.jpg",
-    "Images/cat_3.jpg",
-    "Images/cat_4.jpg"
+    "Images/img1.jpg",
+    "Images/img2.jpg",
+    "Images/img3.jpg",
+    "Images/img4.jpg"
 ];
 
 // var btn = document.querySelector("button")
