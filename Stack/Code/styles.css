@@ -1,0 +1,13 @@
+.resizable-div {
+  padding: auto;
+  text-align: center;
+  text-shadow: 5px 5px 5px green;
+  color: yellow;
+  font-size: 100px;
+  width: 250px;
+  height: 250px;
+  background-color:red;
+  resize: both;
+  overflow: auto;
+  text-wrap:wrap;
+}

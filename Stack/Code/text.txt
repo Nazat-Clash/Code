@@ -1,0 +1,39 @@
+Idea 1: Motion Sensor + DC Motor, “ Smart Door ”
+    If Motion Sensor is high, DC Motor is hig.
+    Else, DC Motor is low.
+
+Idea 2: Temperature Sensor + Fan, “ Smart Cooling System ”
+    If Temperature Sensor is high, Fan is high.
+    Else, Fan is low.
+
+Idea 3: Motion Sensor + Lamp, “ Motion-Activated Light ”
+    If Motion Sensor is high, Lamp is high.
+    Else, Lamp is low.
+
+Idea 4: Light Sensor + Lamp, “ Automatic Night Light ”
+    If Light Sensor is low, Lamp is high.
+    Else, Lamp is low.
+
+Idea 5: Fire Sensor + Pump, “ Automatic Fire Suppression System ”
+    If Fire Sensor is high, Pump is high.
+    Else, Pump is low.
+
+Idea 6: Obstacle Sensor + Buzzer, “ Obstacle Avoidance with Feedback ”
+    If Obstacle Sensor is high, Buzzer is high.
+    Else, Buzzer is low.
+
+Idea 7: Motion Sensor + Fan, “ Smart Fan ”
+    If Motion Sensor is high, Fan is high.
+    Else, Motion Sensor is low, Fan is low.
+
+Idea 8: Fire Sensor + Buzzer, “ Fire Alarm System ”
+    If Fire Sensor is high, Buzzer is high.
+    Else, Buzzer is low.
+
+Idea 9: Water Sensor + Buzzer, “ Water Leak Alarm ”
+    If Water Sensor is high, Buzzer is on.
+    Else, Buzzer is off.
+
+Idea 10: Motion Sensor + Buzzer, “ Intruder Alert System ”
+    If Motion Sensor is high, Buzzer is on.
+    Else, Buzzer is off.
