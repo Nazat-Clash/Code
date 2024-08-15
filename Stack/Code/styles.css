@@ -1,5 +1,11 @@
 /* General styling for the progress bar */
-progress {
+h1{
+    font-size: 70px;
+    font-weight: 200 ;
+    text-transform: uppercase;
+    border-top: 5px solid #4caf50;
+}
+    progress {
     width: 100%;
     height: 20px;
     border-radius: 10px;
